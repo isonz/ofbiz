@@ -344,8 +344,8 @@ access. For a detailed description see the core/docs/entityconfig.html file.
         <inline-jdbc
                 jdbc-driver="com.mysql.jdbc.Driver"
                 jdbc-uri="jdbc:mysql://127.0.0.1/ofbiz?autoReconnect=true"
-                jdbc-username="ofbiz"
-                jdbc-password="Ofbiz@1999"
+                jdbc-username="root"
+                jdbc-password="admin888"
                 isolation-level="ReadCommitted"
                 pool-minsize="2"
                 pool-maxsize="250"
@@ -377,8 +377,8 @@ access. For a detailed description see the core/docs/entityconfig.html file.
         <inline-jdbc
                 jdbc-driver="com.mysql.jdbc.Driver"
                 jdbc-uri="jdbc:mysql://127.0.0.1/ofbizolap?autoReconnect=true"
-                jdbc-username="ofbizolap"
-                jdbc-password="OfbizOlap@1999"
+                jdbc-username="root"
+                jdbc-password="admin888"
                 isolation-level="ReadCommitted"
                 pool-minsize="2"
                 pool-maxsize="250"
@@ -410,8 +410,8 @@ access. For a detailed description see the core/docs/entityconfig.html file.
         <inline-jdbc
                 jdbc-driver="com.mysql.jdbc.Driver"
                 jdbc-uri="jdbc:mysql://127.0.0.1/ofbiztenant?autoReconnect=true"
-                jdbc-username="ofbiztenant"
-                jdbc-password="OfbizTenAnt@1999"
+                jdbc-username="root"
+                jdbc-password="admin888"
                 isolation-level="ReadCommitted"
                 pool-minsize="2"
                 pool-maxsize="250"
