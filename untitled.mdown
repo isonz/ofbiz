@@ -1,0 +1,1 @@
+./gradlew createTenant -PtenantId=ofbiz -PtenantName="My OFBiz" -PdomainName=com.ison -PtenantReaders=seed,seed-initial,ext -PdbPlatform=M -PdbIp=127.0.0.1 -PdbUser=root -PdbPassword=admin
